@@ -1,4 +1,4 @@
-# Boilerplate
+# React Project Template
 
 This is a template for an easy set up of a Node.js web application. It uses React, Redux, Bootstrap, and Express.
 
