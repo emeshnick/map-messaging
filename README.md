@@ -15,7 +15,7 @@ npm install
 To run program:
 
 ```
-npm start-dev
+npm run start-dev
 ```
 
 Open your browser to http://localhost:8080/ to view your app.
@@ -38,4 +38,4 @@ Express routes are on the server side, and includes a directory for api routes o
 
 ### Webpack and Babel
 
-Babel transcompiles the project and Webpack bundles it for deployment into the public file ==bundle.js==. Their configurations can be found in ==.bablerc== and ==webpack.config.js==.
+Babel transcompiles the project and Webpack bundles it for deployment into the public file ==bundle.js==. Their configurations can be found in `.bablerc` and <mark>webpack.config.js</mark>.
