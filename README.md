@@ -31,3 +31,11 @@ React-Bootstrap components help with styling and responsiveness.
 ### Redux
 
 The React Redux library helps with state management. The store can be connected to any component using the ==connect()== function. You can find an example of this connection [here](https://react-redux.js.org/api/connect).
+
+### Express
+
+Express routes are on the server side, and includes a directory for api routes on an Express Router. For production deployment you can run ==node server== or ==npm run start==.
+
+### Webpack and Babel
+
+Babel transcompiles the project and Webpack bundles it for deployment into the public file ==bundle.js==. Their configurations can be found in ==.bablerc== and ==webpack.config.js==.
