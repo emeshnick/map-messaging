@@ -32,7 +32,7 @@ The React Redux library streamlines state management. The store can be connected
 
 ### Express
 
-The server's Express middleware includes Express Router for any necessary api routes.
+The server's Express middleware includes an Express Router for any necessary api routes.
 
 For production deployment you can run `node server` or `npm run start`.
 
