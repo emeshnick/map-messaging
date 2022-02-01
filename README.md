@@ -1,6 +1,6 @@
 # React Project Template
 
-This is a template for an easy set up of a Node.js web application. It uses React, Redux, Bootstrap, and Express.
+This is a template for an easy outline of a Node.js web application. It uses React, Redux, Bootstrap, and Express, and is already configured for web production.
 
 ## Set up
 
@@ -10,7 +10,7 @@ To install:
 npm install
 ```
 
-To build and run program:
+To build and run:
 
 ```
 npm run start-dev
