@@ -4,6 +4,10 @@ body {
   font-family: "Source Sans 3", sans-serif;
 }
 
+#app {
+  min-height: 100vh;
+}
+
 h1 {
   font-weight: 600;
 }
