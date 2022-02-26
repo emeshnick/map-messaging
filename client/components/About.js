@@ -11,7 +11,7 @@ class About extends React.Component {
     return (
       <Container style={styles.mainContainer}>
         <h1>About</h1>
-        <p>Created in 2021</p>
+        <p>Created in 2022</p>
       </Container>
     );
   }
